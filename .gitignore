@@ -1,0 +1,10 @@
+ifamds
+test_arrays
+test_arrays_h
+test_constants
+test_ll
+test_queues
+*.exe
+*.o
+*.obj
+*.out
